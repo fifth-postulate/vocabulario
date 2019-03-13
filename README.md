@@ -1,2 +1,2 @@
 # vocabulario
-Learning spanish vocabulary
+Learning spanish vocabulary.
